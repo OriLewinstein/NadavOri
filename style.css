@@ -1,11 +1,28 @@
 @import url("https://fonts.googleapis.com/css2?family=Passion+One&display=swap");
 
+.navbar {
+  padding: 2rem 0;
+  position: absolute;
+  top: 0;
+  left: 1rem;
+  text-decoration: none;
+  font-family: "Passion One", cursive;
+  color: #fff;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  color: #fff;
+}
+
 .title {
   margin: 7%;
   display: inline-block;
   font-size: 1.5rem;
   text-align: center;
   font-family: sans-serif;
+  letter-spacing: 3rem;
 }
 
 body {
