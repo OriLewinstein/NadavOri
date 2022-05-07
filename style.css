@@ -1,6 +1,4 @@
-body {
-  background-color: gray;
-}
+@import url("https://fonts.googleapis.com/css2?family=Passion+One&display=swap");
 
 .title {
   margin: 7%;
@@ -15,5 +13,12 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(45deg, #fbda61, #ff5acd);
+  background: linear-gradient(45deg, #271e30, #520091);
+}
+
+.h1 {
+  align-items: center;
+  color: aliceblue;
+  font-size: 4rem;
+  font-family: "Passion One", cursive;
 }
