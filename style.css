@@ -20,6 +20,7 @@ body {
     position: absolute;
     bottom: 0;
     color: #fff;
+    font-family: sans-serif;
 }
 
 .title {
@@ -27,8 +28,9 @@ body {
   display: inline-block;
   font-size: 1.5rem;
   text-align: center;
-  font-family: sans-serif;
+  font-family: "Passion One", cursive;
   letter-spacing: 3rem;
+  color: aqua;
 }
 
 body {
