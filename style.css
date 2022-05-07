@@ -43,6 +43,19 @@ body {
 }
 
 .h1:hover {
-  color: #5e2f5a;
-  transition: color 300ms ease-out;
+  color: #f5cbf1;
+  transition: color 1.5s ease-in-out;
+}
+
+.about {
+  color: aliceblue;
+  position: absolute;
+  text-align: center;
+  padding: 10rem;
+  align-items: center;
+  border-width: 1px;
+  margin-top: 70rem;
+}
+
+.about::before {
 }
