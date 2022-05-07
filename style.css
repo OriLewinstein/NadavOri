@@ -1,3 +1,5 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Passion+One&display=swap");
 body {
     min-height: 100vh;
     background: linear-gradient(45deg, #fbda61, #ff5acd);
@@ -11,20 +13,25 @@ body {
 
 }
 
-  
 .title {
-    margin: 7%;
-    display: inline-block;
-    font-size: 1.5rem;
-    text-align: center;
-    font-family: sans-serif;
+  margin: 7%;
+  display: inline-block;
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: sans-serif;
 }
 
-.footer{
-    text-align: center;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    color: #fff;
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(45deg, #271e30, #520091);
+}
+
+.h1 {
+  align-items: center;
+  color: aliceblue;
+  font-size: 4rem;
+  font-family: "Passion One", cursive;
 }
