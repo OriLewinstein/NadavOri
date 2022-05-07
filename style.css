@@ -1,0 +1,11 @@
+body {
+    background-color: gray;
+}
+
+.title {
+    margin: 7%;
+    display: inline-block;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: sans-serif;
+}
