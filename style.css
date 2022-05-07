@@ -22,3 +22,8 @@ body {
   font-size: 4rem;
   font-family: "Passion One", cursive;
 }
+
+.h1:hover {
+  color: #5e2f5a;
+  transition: color 300ms ease-out;
+}
